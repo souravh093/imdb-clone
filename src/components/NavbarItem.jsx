@@ -23,3 +23,4 @@ const NavbarItem = ({ title, param }) => {
 };
 
 export default NavbarItem;
+// https://api.themevoiedb.org/3/trending/movie/week?api_key=%3C%3Capi_key%3E%3E
