@@ -12,7 +12,7 @@ const SearchBox = () => {
     router.push(`/search/${search}`);
   };
   return (
-    <div>
+    <div className="max-w-6xl mx-auto">
       <form
         onSubmit={handleSubmit}
         className="flex max-6xl mx-auto justify-between items-center px-5"
